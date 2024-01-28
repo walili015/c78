@@ -25,14 +25,14 @@
     "url": "https://i.pinimg.com/564x/38/b2/0a/38b20a1d8b07575824144bc54a5e14aa.jpg",
     "previewUrl": "https://i.pinimg.com/564x/38/b2/0a/38b20a1d8b07575824144bc54a5e14aa.jpg",
     "categories": "Motorcycle",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image5",
     "url": "https://i.pinimg.com/originals/01/ce/08/01ce08921c36a934df43f475a0f464e3.jpg",
     "previewUrl": "https://i.pinimg.com/originals/01/ce/08/01ce08921c36a934df43f475a0f464e3.jpg",
     "categories": "Motorcycle",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image6",
@@ -67,14 +67,14 @@
     "url": "https://i.pinimg.com/564x/97/ee/e4/97eee46af5df423cc8cd6069af9647ca.jpg",
     "previewUrl": "https://i.pinimg.com/564x/97/ee/e4/97eee46af5df423cc8cd6069af9647ca.jpg",
     "categories": "Motorcycle",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
     "url": "https://i.pinimg.com/564x/3a/3f/fd/3a3ffd180ab302c197b3be9fec518bf8.jpg",
     "previewUrl": "https://i.pinimg.com/564x/3a/3f/fd/3a3ffd180ab302c197b3be9fec518bf8.jpg",
     "categories": "Yamaha",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
@@ -102,14 +102,14 @@
     "url": "https://i.pinimg.com/564x/29/a2/b0/29a2b0502413d53a6a83eece5e8474c8.jpg",
     "previewUrl": "https://i.pinimg.com/564x/29/a2/b0/29a2b0502413d53a6a83eece5e8474c8.jpg",
     "categories": "Yamaha",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
     "url": "https://i.pinimg.com/736x/33/8c/dd/338cdda66faaa1f145a99f03a3b9b076.jpg",
     "previewUrl": "https://i.pinimg.com/736x/33/8c/dd/338cdda66faaa1f145a99f03a3b9b076.jpg",
     "categories": "Yamaha",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
@@ -144,14 +144,14 @@
     "url": "https://i.pinimg.com/564x/df/6d/c0/df6dc07f06ac2f9a94faa5f4568d5623.jpg",
     "previewUrl": "https://i.pinimg.com/564x/df/6d/c0/df6dc07f06ac2f9a94faa5f4568d5623.jpg",
     "categories": "Yamaha",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
     "url": "https://i.pinimg.com/736x/a8/a2/b8/a8a2b8feaf64c1172b23afca3b841d31.jpg",
     "previewUrl": "https://i.pinimg.com/736x/a8/a2/b8/a8a2b8feaf64c1172b23afca3b841d31.jpg",
     "categories": "Kawasaki",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
@@ -165,7 +165,7 @@
     "url": "https://i.pinimg.com/736x/24/50/76/24507643bb8066fe702d9bcf7369056c.jpg",
     "previewUrl": "https://i.pinimg.com/736x/24/50/76/24507643bb8066fe702d9bcf7369056c.jpg",
     "categories": "Kawasaki",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image7",
@@ -186,7 +186,7 @@
     "url": "https://i.pinimg.com/564x/29/38/e2/2938e23f5c191066f800a585adbc6762.jpg",
     "previewUrl": "https://i.pinimg.com/564x/29/38/e2/2938e23f5c191066f800a585adbc6762.jpg",
     "categories": "Kawasaki",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
@@ -200,7 +200,7 @@
     "url": "https://i.pinimg.com/564x/41/71/75/417175d7eda5b776d4a65ffc8311be49.jpg",
     "previewUrl": "https://i.pinimg.com/564x/41/71/75/417175d7eda5b776d4a65ffc8311be49.jpg",
     "categories": "Kawasaki",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image30HNNNA",
@@ -235,7 +235,7 @@
     "url": "https://i.pinimg.com/736x/83/fe/a9/83fea9ecd240a1ede2c4be600cb0f12f.jpg",
     "previewUrl": "https://i.pinimg.com/736x/83/fe/a9/83fea9ecd240a1ede2c4be600cb0f12f.jpg",
     "categories": "BMW",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image",
@@ -270,13 +270,13 @@
     "url": "https://i.pinimg.com/564x/c1/80/4c/c1804c90807309f7f083174ff0228753.jpg",
     "previewUrl": "https://i.pinimg.com/564x/c1/80/4c/c1804c90807309f7f083174ff0228753.jpg",
     "categories": "BMW",
-    "premium": true
+    "premium": false
   },
  {
     "name": "image40HNNAA",
     "url": "https://i.pinimg.com/564x/76/82/d3/7682d32d5e374ac4c10e68b43e037ebd.jpg",
     "previewUrl": "https://i.pinimg.com/564x/76/82/d3/7682d32d5e374ac4c10e68b43e037ebd.jpg",
     "categories": "BMW",
-    "premium": true
+    "premium": false
   }
 ]
