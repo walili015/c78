@@ -1,26 +1,26 @@
 [
     {
-    "name": "category1",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Super Cars",
+    "preview1": "https://i.pinimg.com/736x/5d/1f/21/5d1f211278da08659c5790cb3a1133fc.jpg",
+    "preview2": "https://i.pinimg.com/736x/85/8e/86/858e86b6dbe03658c57a9b3892774ce6.jpg",
+    "preview3": "https://i.pinimg.com/736x/98/cf/39/98cf39c9c7ab3b913fd942967c8e0c8a.jpg"
   },
     {
-    "name": "category2",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "2024 Cars",
+    "preview1": "https://i.pinimg.com/736x/12/f2/4e/12f24e9dbf5bad7af28dedda2c08b291.jpg",
+    "preview2": "https://i.pinimg.com/736x/18/50/8e/18508e3c6e8c25da63bca5c10a9fc036.jpg",
+    "preview3": "https://i.pinimg.com/736x/fe/d3/11/fed3119c2184b7600f7148a658553dad.jpg"
   },
     {
-    "name": "category3",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Luxury Cars",
+    "preview1": "https://i.pinimg.com/736x/e7/cb/d9/e7cbd9c8e95a10d0c0f5728da91f9efd.jpg",
+    "preview2": "https://i.pinimg.com/736x/d5/d9/c7/d5d9c735af36c779a7103eca60e8f1a0.jpg",
+    "preview3": "https://i.pinimg.com/736x/ae/9c/88/ae9c889c86c2f93d0820574ea8fda5b2.jpg"
   },
   {
-    "name": "category4",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Expensive Brands",
+    "preview1": "https://i.pinimg.com/474x/6f/56/77/6f5677c9ba7770de4c5ee44bee695436.jpg",
+    "preview2": "https://i.pinimg.com/474x/c2/c9/bd/c2c9bd637e069d4e2ca199077c3e7bc2.jpg",
+    "preview3": "https://i.pinimg.com/474x/81/f5/0d/81f50d0d191808823dd2a26278f47fbf.jpg"
   }
 ]
