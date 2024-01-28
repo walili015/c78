@@ -3,7 +3,7 @@
     "adNetwork": "applovin",
     "applovinInterstitial": "0a35fa0bbf99c6e1",
     "ratingactive": true,
-    "appsuspand": "false",
+    "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     "modeads": true,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
