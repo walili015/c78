@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
+    "adNetwork": "adsoff",
     "applovinInterstitial": "b9dce01e4eebfff3",
     
     "ratingactive": true,
