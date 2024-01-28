@@ -1,0 +1,26 @@
+[
+    {
+    "name": "category1",
+    "preview1": "image1",
+    "preview2": "image2",
+    "preview3": "image3"
+  },
+    {
+    "name": "category2",
+    "preview1": "image1",
+    "preview2": "image2",
+    "preview3": "image3"
+  },
+    {
+    "name": "category3",
+    "preview1": "image1",
+    "preview2": "image2",
+    "preview3": "image3"
+  },
+  {
+    "name": "category4",
+    "preview1": "image1",
+    "preview2": "image2",
+    "preview3": "image3"
+  }
+]
