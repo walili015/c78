@@ -1,26 +1,26 @@
 [
     {
-    "name": "category1",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Motorcycle",
+    "preview1": "https://i.pinimg.com/564x/3a/3f/fd/3a3ffd180ab302c197b3be9fec518bf8.jpg",
+    "preview2": "https://i.pinimg.com/564x/0f/f1/1a/0ff11a0be5225ca4df2e487cc97132c8.jpg",
+    "preview3": "https://i.pinimg.com/564x/97/ee/e4/97eee46af5df423cc8cd6069af9647ca.jpg"
   },
     {
-    "name": "category2",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Yamaha",
+    "preview1": "https://i.pinimg.com/564x/3a/3f/fd/3a3ffd180ab302c197b3be9fec518bf8.jpg",
+    "preview2": "https://i.pinimg.com/736x/25/3c/46/253c461aa1e08dd4b4c181bc703b8b51.jpg",
+    "preview3": "https://i.pinimg.com/736x/b9/0c/db/b90cdbc502eb10b5ef105703b5a68dfe.jpg"
   },
     {
-    "name": "category3",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Kawasaki",
+    "preview1": "https://i.pinimg.com/736x/a8/a2/b8/a8a2b8feaf64c1172b23afca3b841d31.jpg",
+    "preview2": "https://i.pinimg.com/736x/d0/c6/be/d0c6beeac4ec5f4aaab46742dffea802.jpg",
+    "preview3": "https://i.pinimg.com/736x/24/50/76/24507643bb8066fe702d9bcf7369056c.jpg"
   },
   {
-    "name": "category4",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "BMW",
+    "preview1": "https://i.pinimg.com/736x/d4/77/93/d47793908cd16de59fc85da20130632f.jpg",
+    "preview2": "https://i.pinimg.com/736x/83/fe/a9/83fea9ecd240a1ede2c4be600cb0f12f.jpg",
+    "preview3": "https://i.pinimg.com/736x/02/c7/61/02c761254db3d98444b5604bafa90df1.jpg"
   }
 ]
