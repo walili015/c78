@@ -101,14 +101,14 @@
     "name": "image",
     "url": "https://i.pinimg.com/564x/4c/98/d4/4c98d449942a55201f8f9c5e490e92bc.jpg",
     "previewUrl": "https://i.pinimg.com/564x/4c/98/d4/4c98d449942a55201f8f9c5e490e92bc.jpg",
-    "categories": "2024 Cars",
+    "categories": "Expensive Brands",
     "premium": true
   },
  {
     "name": "image",
     "url": "https://i.pinimg.com/564x/34/c6/f7/34c6f7095be41432f2fd1561b06862ec.jpg",
     "previewUrl": "https://i.pinimg.com/564x/34/c6/f7/34c6f7095be41432f2fd1561b06862ec.jpg",
-    "categories": "2024 Cars",
+    "categories": "Expensive Brands",
     "premium": true
   },
  {
@@ -199,28 +199,28 @@
     "name": "image",
     "url": "https://i.pinimg.com/564x/c1/b4/ed/c1b4ed5cbbe5ee462849828ef8fe01e3.jpg",
     "previewUrl": "https://i.pinimg.com/564x/c1/b4/ed/c1b4ed5cbbe5ee462849828ef8fe01e3.jpg",
-    "categories": "Luxury Cars",
+    "categories": "Expensive Brands",
     "premium": true
   },
  {
     "name": "image30HNNNA",
     "url": "image",
     "previewUrl": "preview",
-    "categories": "Luxury Cars",
+    "categories": "Expensive Brands",
     "premium": true
   },
  {
     "name": "image7",
     "url": "https://i.pinimg.com/564x/8b/78/90/8b7890629b872020b70b972cedeff24c.jpg",
     "previewUrl": "https://i.pinimg.com/564x/8b/78/90/8b7890629b872020b70b972cedeff24c.jpg",
-    "categories": "Luxury Cars",
+    "categories": "Expensive Brands",
     "premium": false
   },
  {
     "name": "image8",
     "url": "https://i.pinimg.com/564x/13/ee/d4/13eed450757651899fee7c695d96fe1b.jpg",
     "previewUrl": "https://i.pinimg.com/564x/13/ee/d4/13eed450757651899fee7c695d96fe1b.jpg",
-    "categories": "Luxury Cars",
+    "categories": "Expensive Brands",
     "premium": false
   }
 ]
