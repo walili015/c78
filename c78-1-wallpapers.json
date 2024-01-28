@@ -8,15 +8,15 @@
   },
  {
     "name": "image2",
-    "url": "image2",
-    "previewUrl": "preview2",
+    "url": "https://i.pinimg.com/736x/85/8e/86/858e86b6dbe03658c57a9b3892774ce6.jpg",
+    "previewUrl": "https://i.pinimg.com/736x/85/8e/86/858e86b6dbe03658c57a9b3892774ce6.jpg",
     "categories": "Super Cars",
     "premium": false
   },
  {
     "name": "image3",
-    "url": "image3",
-    "previewUrl": "preview3",
+    "url": "https://i.pinimg.com/736x/98/cf/39/98cf39c9c7ab3b913fd942967c8e0c8a.jpg",
+    "previewUrl": "https://i.pinimg.com/736x/98/cf/39/98cf39c9c7ab3b913fd942967c8e0c8a.jpg",
     "categories": "Super Cars",
     "premium": true
   },
