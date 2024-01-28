@@ -1,11 +1,14 @@
 {
   "AdsController": {
     "adNetwork": "applovin",
-    "applovinInterstitial": "0a35fa0bbf99c6e1",
+    "applovinInterstitial": "b9dce01e4eebfff3",
+    
     "ratingactive": true,
+    
     "appsuspand": false,
     "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
-    "modeads": true,
+    
+    "modeads": false,
     "IMG1_URL": "https://cross-pan.netlify.app/c28-a5.jpg",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx"
   }
