@@ -1,26 +1,26 @@
 [
     {
-    "name": "category1",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Truck Wallpapers",
+    "preview1": "https://i.pinimg.com/564x/a9/93/f1/a993f1491de3e190857998e50b94ca34.jpg",
+    "preview2": "https://i.pinimg.com/564x/04/19/08/0419087fa398a167ed3aed7137f04d99.jpg",
+    "preview3": "https://i.pinimg.com/564x/76/58/da/7658da05abccb1fb1500658a98ca3cda.jpg"
   },
     {
-    "name": "category2",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "US Trucks",
+    "preview1": "https://i.pinimg.com/736x/b2/e2/e2/b2e2e268cd0027b9b4cef3b632a6db31.jpg",
+    "preview2": "https://i.pinimg.com/564x/54/d5/12/54d51276cf59b4eb95460cd43dd91353.jpg",
+    "preview3": "https://i.pinimg.com/564x/19/49/ef/1949efe2a62fad3ff42a37ecd6683d01.jpg"
   },
     {
-    "name": "category3",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Indian Trucks",
+    "preview1": "https://i.pinimg.com/564x/27/88/1e/27881e73f0e6c53e3e5b91266d884afc.jpg",
+    "preview2": "https://i.pinimg.com/564x/c3/f9/96/c3f9962f18f0f36bdf80a46a2bbbf07f.jpg",
+    "preview3": "https://i.pinimg.com/564x/50/5f/2e/505f2ef7b3520e214e06fa4592e87a00.jpg"
   },
   {
-    "name": "category4",
-    "preview1": "image1",
-    "preview2": "image2",
-    "preview3": "image3"
+    "name": "Super Cars",
+    "preview1": "https://i.pinimg.com/564x/0c/7e/bd/0c7ebd38778e301efb15deb9fd324727.jpg",
+    "preview2": "https://i.pinimg.com/736x/cb/aa/ce/cbaacedcf924713bc8a539236672cbdf.jpg",
+    "preview3": "https://i.pinimg.com/564x/c8/3e/21/c83e21b2c129fb62ef678f7731adad70.jpg"
   }
 ]
